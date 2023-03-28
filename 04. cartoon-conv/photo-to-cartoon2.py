@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 img = cv2.imread("/Users/a1234/Documents/opencv-samples/docs/images/seoul.jpg")
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
