@@ -13,7 +13,7 @@
   ## Screenshots
 
 <p align="center">
-  <a href="https://github.com/behzod1996/opencv-samples"><img width="300px" alt="Free Drawing" src="https://github.com/behzod1996/opencv-samples/blob/main/docs/images/seoul-cartoon.png?raw=true"/></a> <br>
+  <a href="https://github.com/behzod1996/opencv-samples"><img width="300px" alt="Free Drawing" src="https://github.com/behzod1996/opencv-samples/blob/main/docs/images/seoul-edged.png?raw=true"/></a> <br>
 </p>
 
 <p align="center">
