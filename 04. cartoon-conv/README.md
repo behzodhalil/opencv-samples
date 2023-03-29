@@ -19,3 +19,7 @@
 <p align="center">
   <a href="https://github.com/behzod1996/opencv-samples"><img width="300px" alt="Free Drawing" src="https://github.com/behzod1996/opencv-samples/blob/main/docs/images/seoul.jpg?raw=true"/></a> <br>
 </p>
+ 
+ ## Difference
+ 
+ 1. In ChatGPT result, it does not use "Matplotlib".
